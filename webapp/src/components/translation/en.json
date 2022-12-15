@@ -1,0 +1,26 @@
+{
+	"t": "MM Policies",
+	"tt": "This is a test",
+	"Original": "Original",
+	"Contents": "Contents",
+	"Tools": "Tools",
+	"Expand": "Expand all",
+	"Fold": "Fold all",
+	"language": "Language",
+	"theme": "Color Theme",
+	"light": "Light",
+	"dark": "Dark",
+	"auto": "System",
+	"s0": "Top",
+	"s1": "Next",
+	"s2": "Math",
+	"s3": "Code",
+	"s0t": "Search for policies",
+	"s0p0": "Hoge hoge",
+	"s1t": "Next section is empty",
+	"s2t": "Maths expression",
+	"s2p0": "Here are some latex",
+	"s3t": "Code block",
+	"s3p0": "Here are some codes"
+
+}
