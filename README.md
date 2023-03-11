@@ -1,4 +1,7 @@
 # PolicyTagger
+
+:warning: **This project is no longer maintained and the website is not available now.**
+
 SI650 Final Project
 
 Authors: Ziqi Rong, Yiwen Yang
